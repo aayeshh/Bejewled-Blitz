@@ -13,10 +13,18 @@ Bejeweled Blitz is a fast-paced puzzle game that requires players to quickly lin
 - Instructions Bar
 - Credits Bar
 
+# Setting Up SFML for Your Project
+- Prerequisites
+- C++ Compiler: Make sure you have a C++ compiler installed (e.g., GCC for Linux, MinGW for Windows, or Xcode for macOS).
+- SFML Library: Download and install the SFML library from the official SFML website.
+- Windows
+ - Download SFML: Go to the SFML download page and download the version compatible with your compiler (e.g., GCC MinGW).
+- Extract SFML: Extract the downloaded SFML files to a directory of your choice (e.g., C:\SFML).
+- Configure Your Project:
+- In your project settings, add the path to the SFML headers (e.g., C:\SFML\include) to the include directories.
+- Add the path to the SFML libraries (e.g., C:\SFML\lib) to the library directories.
+- Link against the SFML libraries (e.g., sfml-graphics.lib, sfml-window.lib, sfml-system.lib). If you're using dynamic linking, also link against the corresponding -d versions for the debug configuration (e.g., sfml-graphics-d.lib).
 
-## Credits
-
-- Ayesha Khalid 23L_0667
 
 
 
