@@ -16,7 +16,6 @@ Bejeweled Blitz is a fast-paced puzzle game that requires players to quickly lin
 
 ## Credits
 
-- Uma E Rubab 23L_0928
 - Ayesha Khalid 23L_0667
 
 
